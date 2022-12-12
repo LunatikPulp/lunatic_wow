@@ -1,0 +1,158 @@
+body{
+    padding: 0;
+    margin: 0;
+width: 1440px;
+height: 1800px;
+background: linear-gradient( to top, #FF7235  50%, white 50%);
+    
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin: 57px auto 0 auto;
+    width: 1110px;
+    height: 48px;
+}
+.menu ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.menu ul li{
+}
+.menu ul li a{
+    display: flex;
+    align-items: center;
+    height: 20px;
+    padding: 0 20px;
+    color: #000;
+    text-decoration: none;
+    font: bold 14px Arial, "Nimbus Sans L", Helvetica, sans-serif;
+}
+.menu ul li a:hover{
+    background: orange;
+}
+.menu .left{
+    display: flex;
+    align-items: center;
+    height: 48px;
+    padding: 0 20px;
+    font: bold 16px Arial, "Nimbus Sans L", Helvetica, sans-serif;
+    text-transform: lowercase;
+}
+.menu .right a{
+    display: flex;
+    align-items: center;
+    height: 48px;
+    padding: 0 20px;
+    color: orange;
+    text-decoration: none;
+    font: bold 14px Arial, "Nimbus Sans L", Helvetica, sans-serif;
+    border: 2px solid orange;
+}
+.menu .right a:hover{
+    text-decoration: none;
+    background: orange;
+    color: white;
+}
+.e3_3 { 
+	color:black;
+    position: absolute;
+    width: 540px;
+    height: 288px;
+    left: 165px;
+    top: 219px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+    
+}
+.e3_28 { 
+	color:lightgray;
+    position: absolute;
+    width: 540px;
+    height: 39px;
+    left: 165px;
+    top: 527px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+
+	
+}
+.e36_104 { 
+	overflow:hidden;
+}
+.e36_104 { 
+	width:501px;
+	height:75px;
+	position:absolute;
+}
+
+.e8_282 { 
+	color:rgba(189.00000393390656, 189.00000393390656, 189.00000393390656, 1);
+	width:252px;
+	height:39px;
+	position:absolute;
+	left:414px;
+	top:627px;
+	font-family:Hind Siliguri;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+    position: absolute;
+
+}
+.e46_2 { 
+	width:538.2000122070312px;
+	height:478px;
+
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.image-wrap {
+    position: absolute;
+    width: 538.2px;
+    height: 478px;
+    left: 798px;
+    top: 203px;
+}
+.eks{
+    position: absolute;
+    width: 13px;
+    height: 23px;
+    left: 140px;
+    top: 57px;
+}
+.button{
+    position: absolute;
+    width: 225px;
+    height: 75px;
+    left: 165px;
+    top: 606px
+}
+.images{
+    position: absolute;
+    width: 1440px;
+    height: 188px;
+    left: 0px;
+    top: 1728px;
+}
+.container img{
+    position: absolute;
+    width: 1440px;
+    height: 800px;
+    left: 0px;
+    top: 928px;
+
+
+}
+
+
+
+
+
